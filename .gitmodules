@@ -1,3 +1,6 @@
 [submodule "createurllambda"]
 	path = createurllambda
 	url = https://github.com/Jops-Garcia/createurllambda.git
+[submodule "redirecturlshortner"]
+	path = redirecturlshortner
+	url = https://github.com/Jops-Garcia/redirecturlshortner.git
