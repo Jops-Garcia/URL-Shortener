@@ -1,4 +1,4 @@
-# Projeto de Encurtador de URL com Microserviços AWS
+# Encurtador de URL com Microserviços AWS
 
 Este projeto implementa um sistema de encurtamento de URLs usando microserviços, aproveitando a infraestrutura da AWS, incluindo S3, Lambda e API Gateway. O projeto consiste em dois microserviços principais: um para criação de URLs encurtadas e outro para redirecionamento dessas URLs.
 
